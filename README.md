@@ -1,4 +1,4 @@
-# TechFolio Hub
+# RIDER ESSENTIALS
 RIDER ESSENTIALS App.
 
 # Features
