@@ -29,7 +29,7 @@ const SignUp = () => {
             className="w-[115px] h-[35px]"
           />
           <Text className="text-2xl text-white mt-10 font-psemibold">
-            Signup In to {' '}
+            Sign Up to {' '}
             <Text className="text-cyan-500">RIDER ESSENTIALS</Text>
           </Text>
 
