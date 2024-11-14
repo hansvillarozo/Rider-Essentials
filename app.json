@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Conso",
-    "slug": "Conso",
-    "scheme": "Conso",
+    "name": "RiderEssentials",
+    "slug": "RiderEssentials",
+    "scheme": "RiderEssentials",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
